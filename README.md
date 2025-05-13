@@ -45,8 +45,8 @@
 ---
 
 ### 📫 Let’s Connect:
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 📺 [YouTube - CyberSec Walkthroughs](https://youtube.com/your-channel)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sahan-k-09666b257/)  
+- 📺 [YouTube - CyberSec Walkthroughs](https://www.youtube.com/@sahansecurity)  
 - 🐦 [Twitter](https://twitter.com/your-profile)
 
 ---
