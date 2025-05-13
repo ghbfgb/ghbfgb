@@ -1,56 +1,76 @@
-<h1 align="center">Hi 👋, I'm sahan kommunuri</h1>
-<h3 align="center">i am a cyber warrior</h3>
+<h1 align="center">Hey 👋, I'm Sahan Kommunuri</h1>
+<h3 align="center">🔐 Cybersecurity Enthusiast | Pentester | Blue Team Explorer</h3>
 
-- 🔭 I’m currently working on **CTF challenges**
-
-- 🌱 I’m currently learning **bug bounty , Splunk tool.**
-
-- 👯 I’m looking to collaborate on **ed team / blue team simulations**
-
-- 🤝 I’m looking for help with **Developing detection use cases for SIEMs like Splunk and Wazuh**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ghbfgb](https://github.com/ghbfgb)
-
-- 📝 I regularly write articles on [https://medium.com/@sahankommunuri53](https://medium.com/@sahankommunuri53)
-
-- 💬 Ask me about **cyber security , python, pentesting, SIEM tools**
-
-- 📫 How to reach me **k.sahan786123@gmail.com**
-
-- ⚡ Fun fact **CTF more addictive than netflix**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ sahan-k-09666b257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ sahan-k-09666b257" height="30" width="40" /></a>
-<a href="https://instagram.com/sahan.00786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahan.00786" height="30" width="40" /></a>
-<a href="https://medium.com/@sahankommunuri53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sahankommunuri53" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sahansecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sahansecurity" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&width=435&lines=Cyber+Warrior+in+Training;CTF+Lover+%7C+SIEM+Explorer;Python+%7C+Pentesting+%7C+Splunk+Wizard" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghbfgb&show_icons=true&locale=en&layout=compact" alt="ghbfgb" /></p>
-
-
-### 📁 Featured Repositories
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 🔐 **CTF Platform** | Custom-built Capture The Flag site with challenge composer & scoreboard | [View Repo](https://github.com/your-username/ctf-platform) |
-| 🛠️ **Ping Tool** | A basic ping utility in Python with logging & simple UI | [View Repo](https://github.com/ghbfgb/ping-tool-.git) |
-| 🧪 **Vulnerability Scanner** | Scans for basic CVEs, default credentials, and open ports | [View Repo](https://github.com/ghbfgb/vulnerability-scanner-.git) |
-| 📊 **Splunk Tutorials** | Brute-force detection and log analysis tutorials | [View Repo](https://github.com/ghbfgb/splunk-tutorials) |
+### 🚀 About Me
+- 🔭 Currently building a **CTF Challenge Platform**
+- 🌱 Learning **Bug Bounty, Splunk, and SIEM Engineering**
+- 👯 Looking to collaborate on **Red Team / Blue Team Simulations**
+- 🤝 Need help with **Creating Detection Rules for Splunk & Wazuh**
+- 💡 Open to **Security Research, Open-Source Projects, CTF Writeups**
 
 ---
 
-### 📫 Let’s Connect:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sahan-k-09666b257/)  
-- 📺 [YouTube - CyberSec Walkthroughs](https://www.youtube.com/@sahansecurity)  
-- 🐦 [Twitter](https://twitter.com/your-profile)
+### 📌 Projects Showcase
+
+| 🔧 Project | 💬 Description | 🔗 Repo |
+|-----------|----------------|--------|
+| 🕵️‍♂️ CTF Platform | End-to-end CTF builder with real-time scoreboard & flag system | [View](https://github.com/ghbfgb/ctf-platform) |
+| 📶 Ping Tool | Lightweight Python tool for pinging & logging multiple IPs | [View](https://github.com/ghbfgb/ping-tool-.git) |
+| 🛡️ Vulnerability Scanner | Scans for common issues, open ports, and weak creds | [View](https://github.com/ghbfgb/vulnerability-scanner-.git) |
+| 📊 Splunk Tutorials | Brute-force login alerting, log filtering, and threat use cases | [View](https://github.com/ghbfgb/splunk-tutorials) |
 
 ---
 
-### 🧠 Fun Fact:
-I find CTFs more addictive than Netflix.
+### 💬 Ask Me About
+```
+🔐 Cybersecurity     🐍 Python
+🧪 Pentesting Tools   📊 SIEMs (Splunk, Wazuh, Azure)
+🧠 CTF Strategy      🔍 Log Analysis
+```
 
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahan-k-09666b257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@sahankommunuri53" target="_blank"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@sahansecurity" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/sahan.00786" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 💻 Tech & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghbfgb&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghbfgb&layout=compact&theme=radical" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+<p align="center">CTFs are more addictive than Netflix 🍿</p>
+
+---
+
+<p align="center">Made with ❤️ by Sahan Kommunuri</p>
