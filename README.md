@@ -38,8 +38,8 @@
 | Project | Description | Link |
 |--------|-------------|------|
 | 🔐 **CTF Platform** | Custom-built Capture The Flag site with challenge composer & scoreboard | [View Repo](https://github.com/your-username/ctf-platform) |
-| 🛠️ **Ping Tool** | A basic ping utility in Python with logging & simple UI | [View Repo](https://github.com/your-username/ping-tool) |
-| 🧪 **Vulnerability Scanner** | Scans for basic CVEs, default credentials, and open ports | [View Repo](https://github.com/your-username/vuln-scanner) |
+| 🛠️ **Ping Tool** | A basic ping utility in Python with logging & simple UI | [View Repo](https://github.com/ghbfgb/ping-tool-.git) |
+| 🧪 **Vulnerability Scanner** | Scans for basic CVEs, default credentials, and open ports | [View Repo](https://github.com/ghbfgb/vulnerability-scanner-.git) |
 | 📊 **Splunk Tutorials** | Brute-force detection and log analysis tutorials | [View Repo](https://github.com/ghbfgb/splunk-tutorials) |
 
 ---
